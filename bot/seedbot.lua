@@ -188,7 +188,7 @@ enabled_plugins = {
 "download_media",
 "invite"
 },
-sudo_users = {44582532,160553465},--Sudo users
+sudo_users = {160553465},--Sudo users
 disabled_channels = {},
 realm = {},--Realms Id
 moderation = {data = 'data/moderation.json'},
