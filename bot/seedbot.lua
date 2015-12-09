@@ -194,11 +194,11 @@ realm = {},--Realms Id
 moderation = {data = 'data/moderation.json'},
 about_text = [[Teleseed v1
 An advance Administration bot based on yagop/telegram-bot
-https://github.com/SEEDTEAM/TeleSeed
+https://github.com/mrfoxirani/fox
 Admins
 @iwals [Founder]
 @imandaneshi [Developer]
-@seyedan25 [Manager]
+@foxgp2 [Manager]
 Special thanks to
 awkward_potato
 Siyanew
