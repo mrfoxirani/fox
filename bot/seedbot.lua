@@ -1,23 +1,3 @@
- Skip to content
-This repository
-
-    Pull requests
-    Issues
-    Gist
-
-    @mrfoxirani
-
-    1
-    0
-    0
-
-rastin45/telecaty
-Code Issues 0 Pull requests 0 Wiki Pulse Graphs
-telecaty/bot/seedbot.lua
-86b329a 3 minutes ago
-@rastin45 rastin45 Update seedbot.lua
-2 contributors @rastin45 @Imandaneshi
-439 lines (342 sloc) 8.42 KB
 package.path = package.path .. ';.luarocks/share/lua/5.2/?.lua'
 ..';.luarocks/share/lua/5.2/?/init.lua'
 package.cpath = package.cpath .. ';.luarocks/lib/lua/5.2/?.so'
@@ -208,7 +188,7 @@ enabled_plugins = {
 "download_media",
 "invite"
 },
-sudo_users = {44582532,160553465},--Sudo users
+sudo_users = {44582532,112970218},--Sudo users
 disabled_channels = {},
 realm = {},--Realms Id
 moderation = {data = 'data/moderation.json'},
@@ -360,19 +340,3 @@ our_id = 0
 now = os.time()
 math.randomseed(now)
 started = false
-
-    Status
-    API
-    Training
-    Shop
-    Blog
-    About
-    Pricing
-
-    © 2015 GitHub, Inc.
-    Terms
-    Privacy
-    Security
-    Contact
-    Help
-
