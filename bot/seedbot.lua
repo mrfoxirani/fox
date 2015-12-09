@@ -196,9 +196,9 @@ about_text = [[Teleseed v1
 An advance Administration bot based on yagop/telegram-bot
 https://github.com/mrfoxirani/fox
 Admins
-@iwals [Founder]
-@imandaneshi [Developer]
-@foxgp2 [Manager]
+@joker_fucker_admin1 [Founder]
+@joker_fucker_admin1 [Developer]
+@joker_fucker_admin1 [Manager]
 Special thanks to
 awkward_potato
 Siyanew
